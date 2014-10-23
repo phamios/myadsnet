@@ -1,0 +1,4 @@
+protected/vendor/*
+protected/runtime/*
+assets/*
+images/*
